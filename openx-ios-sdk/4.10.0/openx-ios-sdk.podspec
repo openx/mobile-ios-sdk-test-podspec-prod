@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.openx.com/'
   s.license          = { :type => 'Copyright', :text => 'Copyright 2019 OpenX. All rights reserved.\n' }
   s.author           = { 'OpenX' => 'mobile-eng-team@example.com' }
-  s.source           = { :http => 'http://i.cdn.openx.com/sdks/release-4.10.0/OpenX_Mobile_SDK_iOS_4.10.0.zip' }
+  s.source           = { :http => 'https://i.cdn.openx.com/sdks/release-4.10.0/OpenX_Mobile_SDK_iOS_4.10.0.zip' }
 
   s.requires_arc  = true
   s.ios.deployment_target = '8.0'
